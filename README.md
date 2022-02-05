@@ -1,6 +1,6 @@
-# Christian Code
+# Christian Projects
 
-**Christian Code** is a curated list of Christian projects that are open source or free to use (no fees or copyright restrictions).
+**Christian Projects** is a curated list of Christian projects that are open source or free to use (no fees or copyright restrictions).
 
 Projects are organized both by target platform and by type. This means that all projects will be listed at least twice, once under platform and once under type. Some projects may be listed several times, for example a project that provides English and original language text for web and mobile.
 
