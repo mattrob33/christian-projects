@@ -1,49 +1,34 @@
 # Christian Projects
 
-**Christian Projects** is a curated list of Christian projects that are open source or free to use (no fees or copyright restrictions).
+**Christian Projects** is a curated list of Christian projects. This repository is intended for developers, and so the only approved projects are open source projects, or APIs/services that could be useful to developers and are free to use (i.e. no fees). APIs that charge fees may be included if they offer a free level of access (e.g. 100 requests per day for free).
 
-Projects are organized both by target platform and by type. This means that all projects will be listed at least twice, once under platform and once under type. Some projects may be listed several times, for example a project that provides English and original language text for web and mobile.
+### Table of Contents
 
-## Platform
+1. [Bible](#bible)
+1. [Original Languages](#original-languages)
+1. [Creeds, Confessions, and Catechisms](#creeds-confessions-and-catechisms)
+1. [Prayer/Meditation](#prayermeditation)
 
-### Data
+### Bible
 
-_No projects yet_
+Project Name | Description | Languages | Frameworks | Suported Platforms
+-- | -- | -- | -- | --
+ |  |  |  | 
 
-### Scripts
+### Original Languages
 
-_No projects yet_
+Project Name | Description | Languages | Frameworks | Platforms
+--- | --- | :-: | :-: | :-:
+[GNT Reader](https://github.com/mattrob33/sblgnt-reader) | A digital reader's edition of the Greek New Testament | Kotlin | - | Android
 
-### Web
+### Creeds, Confessions, and Catechisms
 
-_No projects yet_
-
-### Mobile
-
-_No projects yet_
-
-### Desktop
-
-_No projects yet_
-
-## Type
-
-### English Bible
-
-_No projects yet_
-
-### Greek/Hebrew
-
-_No projects yet_
-
-### Audio Bible
-
-_No projects yet_
-
-### Church History
-
-_No projects yet_
+Project Name | Description | Languages | Frameworks | Suported Platforms
+--- | --- | :-: | :-: | :-:
+[Westminster Standards](https://github.com/mattrob33/westminster-ios) | An iOS app for reading and searching the WCF, WLC, and WSC | Swift | - | iOS
 
 ### Prayer/Meditation
 
-_No projects yet_
+Project Name | Description | Languages | Frameworks | Suported Platforms
+-- | -- | -- | -- | --
+ |  |  |  | 
