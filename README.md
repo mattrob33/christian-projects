@@ -1,6 +1,10 @@
 # Christian Projects
 
-**Christian Projects** is a curated list of Christian projects. This repository is intended for developers, and so the only approved projects are open source projects, or APIs/services that could be useful to developers and are free to use (i.e. no fees). APIs that charge fees may be included if they offer a free level of access (e.g. 100 requests per day for free).
+**Christian Projects** is a curated list of Christian projects.
+
+This repository is intended for developers, and so the only approved projects are open source projects, or APIs/services that could be useful to developers and are free to use (i.e. no fees). APIs that charge fees may be included if they offer a free level of access (e.g. 100 requests per day for free).
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a project or making any other changes.
 
 ### Table of Contents
 
@@ -12,7 +16,7 @@
 ### Bible
 
 Project Name | Description | Languages | Frameworks | Suported Platforms
--- | -- | -- | -- | --
+--- | --- | :-: | :-: | :-:
  |  |  |  | 
 
 ### Original Languages
@@ -30,5 +34,5 @@ Project Name | Description | Languages | Frameworks | Suported Platforms
 ### Prayer/Meditation
 
 Project Name | Description | Languages | Frameworks | Suported Platforms
--- | -- | -- | -- | --
+--- | --- | :-: | :-: | :-:
  |  |  |  | 
