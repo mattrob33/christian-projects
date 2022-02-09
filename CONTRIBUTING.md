@@ -11,6 +11,9 @@ To add, remove, or change a _category_, please create an Issue or open a standal
  - The link should be on the name of the project.
  - If a project has separate links for different platforms, include links on the platform name. For example, `[Android](link)`.
  - Descriptions should be clear, concise, and non-promotional.
+ - Projects that contain data only (e.g., json, yaml, xml, txt) should have a `platform` type of "data".
+ - Projects that contain scripts only should have a `platform` type of "script".
+ - API/service projects should have a `platform` type of "API".
 
 ## Project Requirements
 
