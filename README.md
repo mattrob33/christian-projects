@@ -6,18 +6,18 @@ This repository is intended for developers, and so the only approved projects ar
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a project or making any other changes.
 
-### Table of Contents
+## Table of Contents
 
-1. [Bible](#bible)
-1. [Original Languages](#original-languages)
-1. [Creeds, Confessions, and Catechisms](#creeds-confessions-and-catechisms)
-1. [Prayer/Meditation](#prayermeditation)
+- [Bible](#bible)
+- [Original Languages](#original-languages)
+- [Creeds, Confessions, and Catechisms](#creeds-confessions-and-catechisms)
+- [Prayer/Meditation](#prayermeditation)
 
 ### Bible
 
 Project Name | Description | Languages | Frameworks | Suported Platforms
 --- | --- | :-: | :-: | :-:
- |  |  |  | 
+ |  |  |  |
 
 ### Original Languages
 
@@ -36,4 +36,4 @@ Project Name | Description | Languages | Frameworks | Suported Platforms
 
 Project Name | Description | Languages | Frameworks | Suported Platforms
 --- | --- | :-: | :-: | :-:
- |  |  |  | 
+ |  |  |  |
