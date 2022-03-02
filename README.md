@@ -32,6 +32,11 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [ChurchCRM](https://github.com/ChurchCRM/CRM) | An OpenSource CRM System Built for Churches | PHP | - | [Web](https://churchcrm.io/)
 
+### Church Presentation
+
+Project Name | Description | Languages | Frameworks | Supported Platforms
+--- | --- | :-: | :-: | :-:
+
 ### Creeds, Confessions, and Catechisms
 
 Project Name | Description | Languages | Frameworks | Supported Platforms
