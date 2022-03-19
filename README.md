@@ -22,6 +22,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
 [Sword Drill](https://github.com/meichthys/sword_drill) | An application that displays verse text on screen when audio verse reference is spoken | Python | - | [Desktop](https://github.com/meichthys/sword_drill/releases)
+[Xiphos](https://github.com/crosswire/xiphos) | A Bible study tool written for Linux, UNIX, and Windows | Scheme | GTK | [Windows, Linux, Unix](https://xiphos.org/download/)
 
 ### Original Languages
 
