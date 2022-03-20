@@ -36,6 +36,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [ChurchCRM](https://github.com/ChurchCRM/CRM) | An OpenSource CRM System Built for Churches | PHP | - | [Web](https://churchcrm.io/)
 [Jethro Pastoral Ministry Manager](https://github.com/tbar0970/jethro-pmm) | A web-based tool which helps churches keep track of people, families, groups, attendance, pastoral tasks, church services, rosters and documents | PHP | - | [Web](https://github.com/tbar0970/jethro-pmm#download-and-install)
+[\* OneBody](https://github.com/seven1m/onebody) | A web-based social networking, email list, online directory, and lightweight document management software for churches | Ruby | - | [Web](https://github.com/seven1m/onebody/releases)
 
 ### Church Presentation
 
