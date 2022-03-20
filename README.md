@@ -9,7 +9,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a projec
 ## Table of Contents
 
 - [Bible](#bible)
-- [Original Languages](#original-languages)
 - [Church Management](#church-management)
 - [Creeds, Confessions, and Catechisms](#creeds-confessions-and-catechisms)
 - [Prayer/Meditation](#prayermeditation)
@@ -21,14 +20,9 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
+[GNT Reader](https://github.com/mattrob33/sblgnt-reader) | A digital reader's edition of the Greek New Testament | Kotlin | - | Android
 [Sword Drill](https://github.com/meichthys/sword_drill) | An application that displays verse text on screen when audio verse reference is spoken | Python | - | [Desktop](https://github.com/meichthys/sword_drill/releases)
 [Xiphos](https://github.com/crosswire/xiphos) | A Bible study tool written for Linux, UNIX, and Windows | Scheme | GTK | [Windows, Linux, Unix](https://xiphos.org/download/)
-
-### Original Languages
-
-Project Name | Description | Languages | Frameworks | Supported Platforms
---- | --- | :-: | :-: | :-:
-[GNT Reader](https://github.com/mattrob33/sblgnt-reader) | A digital reader's edition of the Greek New Testament | Kotlin | - | Android
 
 ### Church Management
 
