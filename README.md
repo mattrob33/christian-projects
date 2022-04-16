@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a projec
 - [Bible](#bible)
 - [Church Management](#church-management)
 - [Church Presentation](#church-presentation)
+- [Communication](#communication)
 - [Creeds, Confessions, and Catechisms](#creeds-confessions-and-catechisms)
 - [Original Languages](#original-languages)
 - [Prayer/Meditation](#prayermeditation)
@@ -46,6 +47,10 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [OpenSong](https://sourceforge.net/projects/opensong/) | Lyric projection and chord charts for church musicians | REALBasic | - | [Windows, MacOS, Linux](https://sourceforge.net/projects/opensong/files/latest/download)
 [Quelea](https://github.com/quelea-projection/Quelea) | Projection software designed around the needs of the modern, multimedia rich church | Java | - | [Windows, MacOS, Linux](https://github.com/quelea-projection/Quelea/releases)
 [\* softProjector](https://sourceforge.net/projects/softprojector/) | Powerful, yet easy to use Bible/Lyric projection software | C++ | Qt | [Windows, MacOS](https://sourceforge.net/projects/softprojector/files/latest/download)
+
+### Communication
+
+[Angelos / Logo](https://github.com/kristoffer-paulsson/angelos) | A safe messenger system and client | Python | - | [Web](https://angelos-project.com/)
 
 ### Creeds, Confessions, and Catechisms
 
