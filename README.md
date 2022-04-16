@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a projec
 - [Bible](#bible)
 - [Original Languages](#original-languages)
 - [Church Management](#church-management)
+- [Church Presentation](#church-presentation)
 - [Creeds, Confessions, and Catechisms](#creeds-confessions-and-catechisms)
 - [Prayer/Meditation](#prayermeditation)
 
