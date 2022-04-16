@@ -37,6 +37,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 
 Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
+[\* cedarserver](https://github.com/cedarproject/cedarserver) | Show control system that handles multimedia, presentations, song lyrics, and lighting, all controlled simultaneously over a network. | JavaScript | - | [Web](https://github.com/cedarproject/cedarserver#installation)
 [Chabaa](https://github.com/dioniswe/chabaa) | An app supporting churches to use digital capabilities for their gatherings and cooperations | PHP | - | [Web](https://github.com/dioniswe/chabaa#installation)
 [OpenLP](https://gitlab.com/openlp) | Worship presentation software designed to fit how you want to run your service. | Python | - | [Windows, MacOS, Linux,](https://openlp.org/) [iOS,](https://apps.apple.com/us/app/openlp-remote/id1096218725) [Android](https://play.google.com/store/apps/details?id=org.openlp.android2)
 [OpenSong](https://sourceforge.net/projects/opensong/) | Lyric projection and chord charts for church musicians | REALBasic | - | [Windows, MacOS, Linux](https://sourceforge.net/projects/opensong/files/latest/download)
