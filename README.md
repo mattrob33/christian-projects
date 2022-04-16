@@ -48,6 +48,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [OpenSong](https://sourceforge.net/projects/opensong/) | Lyric projection and chord charts for church musicians | REALBasic | - | [Windows, MacOS, Linux](https://sourceforge.net/projects/opensong/files/latest/download)
 [Quelea](https://github.com/quelea-projection/Quelea) | Projection software designed around the needs of the modern, multimedia rich church | Java | - | [Windows, MacOS, Linux](https://github.com/quelea-projection/Quelea/releases)
 [\* softProjector](https://sourceforge.net/projects/softprojector/) | Powerful, yet easy to use Bible/Lyric projection software | C++ | Qt | [Windows, MacOS](https://sourceforge.net/projects/softprojector/files/latest/download)
+[vSongBook](https://github.com/Appsmata/MasterSongbook-Web) | A songbook app for use in churches to access song lyrics | PHP | Flutter(Mobile) | [Web, Android, Windows](http://appsmata.com/vSongBook#download)
 
 ### Communication
 
