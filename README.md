@@ -21,6 +21,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a projec
 Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
+[biblehub](https://github.com/joshpetit/biblehub) |A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
