@@ -59,3 +59,5 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
  |  |  |  |
+
+\* Projects marked with an asterisk have been archived or abandoned.
