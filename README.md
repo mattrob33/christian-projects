@@ -25,6 +25,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
+[mBible](https://github.com/Appsmata/MasterBible-Desktop) | A high quality, visual, open source tool to give users access to the Holy Bible in English and Kiswahili | C++ | - | [Android, Windows](https://appsmata.com/mBible#download)
 [Sword Drill](https://github.com/meichthys/sword_drill) | An application that displays verse text on screen when audio verse reference is spoken | Python | - | [Desktop](https://github.com/meichthys/sword_drill/releases)
 [Xiphos](https://github.com/crosswire/xiphos) | A Bible study tool written for Linux, UNIX, and Windows | Scheme | GTK | [Windows, Linux, Unix](https://xiphos.org/download/)
 
