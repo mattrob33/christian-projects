@@ -24,6 +24,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
 [biblehub](https://github.com/joshpetit/biblehub) |A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
+[Bishop](https://git.crosswire.org/main/bishop) | Cordova Frontend for The SWORD Project | JavaScript | Cordova | Web
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
 [mBible](https://github.com/Appsmata/MasterBible-Desktop) | A high quality, visual, open source tool to give users access to the Holy Bible in English and Kiswahili | C++ | - | [Android, Windows](https://appsmata.com/mBible#download)
