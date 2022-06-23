@@ -20,6 +20,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a projec
 
 Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
+[AndBible](https://github.com/AndBible/and-bible) | Powerful offline Bible Study tool for Android | Kotlin | Vue.js | [Android](https://play.google.com/store/apps/details?id=net.bible.android.activity)
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
 [biblehub](https://github.com/joshpetit/biblehub) |A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
