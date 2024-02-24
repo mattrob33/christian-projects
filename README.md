@@ -28,9 +28,9 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
 [mBible](https://github.com/Appsmata/MasterBible-Desktop) | A high quality, visual, open source tool to give users access to the Holy Bible in English and Kiswahili | C++ | - | [Android, Windows](https://appsmata.com/mBible#download)
+[OpenBible](https://github.com/danzuep/OpenBible) | An open-source, cross platform Bible app for any public domain Bible in any language, written in C# MAUI for mobile and desktop, and a partial Blazor SPA for the web. | C# .NET | - | [Android](https://github.com/danzuep/OpenBible/releases/latest), [Web](https://danzuep.github.io/OpenBible/), any common platform.
 [Sword Drill](https://github.com/meichthys/sword_drill) | An application that displays verse text on screen when audio verse reference is spoken | Python | - | [Desktop](https://github.com/meichthys/sword_drill/releases)
 [Xiphos](https://github.com/crosswire/xiphos) | A Bible study tool written for Linux, UNIX, and Windows | Scheme | GTK | [Windows, Linux, Unix](https://xiphos.org/download/)
-[OpenBible](https://github.com/danzuep/OpenBible) | An open-source, cross platform Bible app for any public domain Bible in any language, written in C# MAUI for mobile and desktop, and a partial Blazor SPA for the web. | C# .NET | - | [Android](https://github.com/danzuep/OpenBible/releases/latest), [Web](https://danzuep.github.io/OpenBible/), any common platform.
 
 ### Church Management
 
