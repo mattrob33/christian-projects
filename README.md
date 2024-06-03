@@ -37,6 +37,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [\* apostello](https://github.com/monty5811/apostello/) | Free SMS communication software for your church | ELM/Python | - | [Web](https://github.com/monty5811/apostello/releases)
+[CHUMS](https://github.com/ChurchApps/ChumsApp) | Freely hosted open-source church management software | JavaScript | React | [Web](https://chums.org/)
 [ChurchCRM](https://github.com/ChurchCRM/CRM) | An OpenSource CRM System Built for Churches | PHP | - | [Web](https://churchcrm.io/)
 [\* ChurchInfo](https://sourceforge.net/projects/churchinfo/) | A free church database network application | PHP | - | [Web](https://sourceforge.net/projects/churchinfo/files/latest/download)
 [Jethro Pastoral Ministry Manager](https://github.com/tbar0970/jethro-pmm) | A web-based tool which helps churches keep track of people, families, groups, attendance, pastoral tasks, church services, rosters and documents | PHP | - | [Web](https://github.com/tbar0970/jethro-pmm#download-and-install)
@@ -48,6 +49,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [\* cedarserver](https://github.com/cedarproject/cedarserver) | Show control system that handles multimedia, presentations, song lyrics, and lighting, all controlled simultaneously over a network. | JavaScript | - | [Web](https://github.com/cedarproject/cedarserver#installation)
 [Chabaa](https://github.com/dioniswe/chabaa) | An app supporting churches to use digital capabilities for their gatherings and cooperations | PHP | - | [Web](https://github.com/dioniswe/chabaa#installation)
+[FreeShow](https://github.com/ChurchApps/FreeShow) | A user-friendly and open-source presenter for churches | JavaScript | Electron | [Windows, MacOS, Linux](https://freeshow.app/)
 [OpenLP](https://gitlab.com/openlp) | Worship presentation software designed to fit how you want to run your service. | Python | - | [Windows, MacOS, Linux,](https://openlp.org/) [iOS,](https://apps.apple.com/us/app/openlp-remote/id1096218725) [Android](https://play.google.com/store/apps/details?id=org.openlp.android2)
 [OpenSong](https://sourceforge.net/projects/opensong/) | Lyric projection and chord charts for church musicians | REALBasic | - | [Windows, MacOS, Linux](https://sourceforge.net/projects/opensong/files/latest/download)
 [Quelea](https://github.com/quelea-projection/Quelea) | Projection software designed around the needs of the modern, multimedia rich church | Java | - | [Windows, MacOS, Linux](https://github.com/quelea-projection/Quelea/releases)
@@ -57,6 +59,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 ### Communication
 
 [Angelos / Logo](https://github.com/kristoffer-paulsson/angelos) | A safe messenger system and client | Python | - | [Web](https://angelos-project.com/)
+[B1 Church](https://github.com/ChurchApps/B1App) | A church communication platform that includes a website builder and mobile app | JavaScript | React, React Native | [Web, iOS, Android](https://b1.church/)
 
 ### Creeds, Confessions, and Catechisms
 
