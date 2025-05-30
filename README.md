@@ -68,6 +68,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [Compendium](https://github.com/reformed-standards/compendium) | A collection of reformed documents, such as confessions and catechisms | - | - | data
+[Creeds.json](https://github.com/NonlinearFruit/Creeds.json) | Structured copies of Reformed creeds, confessions and catechisms | - | - | data
 [Westminster Standards](https://github.com/mattrob33/westminster-ios) | An iOS app for reading and searching the WCF, WLC, and WSC | Swift | - | iOS
 
 ### Original Languages
