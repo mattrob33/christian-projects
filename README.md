@@ -64,6 +64,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [Angelos / Logo](https://github.com/kristoffer-paulsson/angelos) | A safe messenger system and client | Python | - | [Web](https://angelos-project.com/)
 [B1 Church](https://github.com/ChurchApps/B1App) | A church communication platform that includes a website builder and mobile app | JavaScript | React, React Native | [Web, iOS, Android](https://b1.church/)
+[Chancel](https://github.com/jdmldm1/Chancel) | An online small group and group bible study platform | Javascript | Next.js, Appolo with Graphql | [Web](http://www.chancel.study/)
 
 ### Creeds, Confessions, and Catechisms
 
