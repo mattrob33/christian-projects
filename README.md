@@ -24,6 +24,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
 [biblehub](https://github.com/joshpetit/biblehub) |A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
+[Bible in One Scroll](https://github.com/jungrok5/one-scroll-bible) | The whole Bible's redemptive history (Creation to Restoration) as a single mobile scroll, ending in a gospel prayer; verbatim Scripture in 190+ languages | JavaScript | - | [Web](https://one-scroll-bible.com/)
 [BiblePro](https://github.com/9cb14c1ec0/BiblePro) | Offline Bible study app with over 40 languages and translations included | Kotlin | Compose Multiplatform | [Windows, Linux, Android](https://github.com/9cb14c1ec0/BiblePro/releases)
 [Bishop](https://git.crosswire.org/main/bishop) | Cordova Frontend for The SWORD Project | JavaScript | Cordova | Web
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
