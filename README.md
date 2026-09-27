@@ -42,6 +42,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [\* apostello](https://github.com/monty5811/apostello/) | Free SMS communication software for your church | ELM/Python | - | [Web](https://github.com/monty5811/apostello/releases)
 [CHUMS](https://github.com/ChurchApps/ChumsApp) | Freely hosted open-source church management software | JavaScript | React | [Web](https://chums.org/)
 [ChurchCRM](https://github.com/ChurchCRM/CRM) | An OpenSource CRM System Built for Churches | PHP | - | [Web](https://churchcrm.io/)
+[ChurchManager](https://github.com/jwattswhat/ChurchManager) | Open-source Windows administration and planning system for small congregations | Python | wxPython / JSForm | [Windows](https://jwattswhat.github.io/ChurchManager/)
 [\* ChurchInfo](https://sourceforge.net/projects/churchinfo/) | A free church database network application | PHP | - | [Web](https://sourceforge.net/projects/churchinfo/files/latest/download)
 [Jethro Pastoral Ministry Manager](https://github.com/tbar0970/jethro-pmm) | A web-based tool which helps churches keep track of people, families, groups, attendance, pastoral tasks, church services, rosters and documents | PHP | - | [Web](https://github.com/tbar0970/jethro-pmm#download-and-install)
 [\* OneBody](https://github.com/seven1m/onebody) | A web-based social networking, email list, online directory, and lightweight document management software for churches | Ruby | - | [Web](https://github.com/seven1m/onebody/releases)
